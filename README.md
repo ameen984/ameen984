@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning frontend
 <!--
 **ameen984/ameen984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
